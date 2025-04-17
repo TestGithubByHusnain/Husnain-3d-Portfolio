@@ -153,9 +153,9 @@ const navLinks = [
       title: "React Developer (Intern)",
       date: "1st November 2024 to 30th November 2024",
       responsibilities: [
-        "Developed and maintained user-facing features for the Hostinger website.",
-        "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-        "Optimized web applications for maximum speed and scalability.",
+        "Developed and maintained responsive front-end features using React.js and Tailwind CSS.",
+        "Collaborated with UI/UX designers to deliver smooth and consistent user experiences.",
+        "Improved performance through optimized state management and lazy loading.",
       ],
     },
     {
@@ -165,9 +165,9 @@ const navLinks = [
       title: "Front-End Web Developer (Intern)",
       date: "1st October 2024 to 30th October 2024",
       responsibilities: [
-        "Led the development of Docker's web applications, focusing on scalability.",
-        "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-        "Contributed to open-source projects that were used with the Docker ecosystem.",
+        "Developed responsive and user-friendly web interfaces using React.js, enhancing the overall UI/UX of client projects.",
+        "Collaborated with the development team to implement new features, fix bugs, and maintain clean, reusable code.",
+        "Contributed to optimizing website performance and ensuring cross-browser compatibility across multiple devices.",
       ],
     },
     {
@@ -177,9 +177,9 @@ const navLinks = [
       title: "Front-End Web Developer (Intern)",
       date: "1st September 2024 to 15th October 2024",
       responsibilities: [
-        "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-        "Improved app performance and user experience through code optimization and testing.",
-        "Coordinated with the product team to implement features based on feedback.",
+        "Built structured and responsive UIs using React.js while ensuring clean, maintainable code for long-term scalability.",
+        "Effectively managed tasks and project timelines using tools like DevelopersHub, ensuring consistent progress and delivery.",
+        "Maintained clear documentation and followed a detail-oriented approach, contributing to smooth team collaboration and code handoffs.",
       ],
     },
   ];
