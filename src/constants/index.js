@@ -94,10 +94,10 @@ const navLinks = [
       name: "React Developer",
       imgPath: "/images/logos/react.png",
     },
-    {
-      name: "Python Developer",
-      imgPath: "/images/logos/python.svg",
-    },
+    // {
+    //   name: "Python Developer",
+    //   imgPath: "/images/logos/python.svg",
+    // },
     {
       name: "Backend Developer",
       imgPath: "/images/logos/node.png",
@@ -106,10 +106,10 @@ const navLinks = [
       name: "Interactive Developer",
       imgPath: "/images/logos/three.png",
     },
-    {
-      name: "Project Manager",
-      imgPath: "/images/logos/git.svg",
-    },
+    // {
+    //   name: "Project Manager",
+    //   imgPath: "/images/logos/git.svg",
+    // },
   ];
   
   const techStackIcons = [
@@ -119,12 +119,12 @@ const navLinks = [
       scale: 1,
       rotation: [0, 0, 0],
     },
-    {
-      name: "Python Developer",
-      modelPath: "/models/python-transformed.glb",
-      scale: 0.8,
-      rotation: [0, 0, 0],
-    },
+    // {
+    //   name: "Python Developer",
+    //   modelPath: "/models/python-transformed.glb",
+    //   scale: 0.8,
+    //   rotation: [0, 0, 0],
+    // },
     {
       name: "Backend Developer",
       modelPath: "/models/node-transformed.glb",
@@ -137,12 +137,12 @@ const navLinks = [
       scale: 0.05,
       rotation: [0, 0, 0],
     },
-    {
-      name: "Project Manager",
-      modelPath: "/models/git-svg-transformed.glb",
-      scale: 0.05,
-      rotation: [0, -Math.PI / 4, 0],
-    },
+    // {
+    //   name: "Project Manager",
+    //   modelPath: "/models/git-svg-transformed.glb",
+    //   scale: 0.05,
+    //   rotation: [0, -Math.PI / 4, 0],
+    // },
   ];
   
   const expCards = [
